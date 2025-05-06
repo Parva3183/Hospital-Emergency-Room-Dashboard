@@ -47,4 +47,9 @@ To view the dashboard:
    ```bash
    git clone https://github.com/your-username/hospital-er-dashboard.git
 
+You can connect me through LinkedIn or email.
+
+LinkedIn :- https://www.linkedin.com/in/parvashah3183/
+
+Email-Id :- ParvaShah3183@gmail.com
 
